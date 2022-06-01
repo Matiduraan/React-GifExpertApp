@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Matiduraan/React-GifExpertApp/static/css/main.52c46d95.css",
+    "main.js": "/Matiduraan/React-GifExpertApp/static/js/main.e51a5749.js",
+    "index.html": "/Matiduraan/React-GifExpertApp/index.html",
+    "main.52c46d95.css.map": "/Matiduraan/React-GifExpertApp/static/css/main.52c46d95.css.map",
+    "main.e51a5749.js.map": "/Matiduraan/React-GifExpertApp/static/js/main.e51a5749.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52c46d95.css",
+    "static/js/main.e51a5749.js"
+  ]
+}
